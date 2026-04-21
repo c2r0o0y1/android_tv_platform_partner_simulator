@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+captures/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+docker-data/
+
+# Misc
+tmp/

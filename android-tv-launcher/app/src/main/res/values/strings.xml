@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireTV Simulator</string>
+    <string name="splash_title">FireTV Partner Simulator</string>
+    <string name="main_title">Launcher Control Center</string>
+    <string name="home_title">Home Screen</string>
+    <string name="home_description">Starter UI for partner content rails.</string>
+    <string name="settings_title">Settings Screen</string>
+    <string name="settings_description">Starter area for partner/system toggles.</string>
+    <string name="open_home">Open Home</string>
+    <string name="open_settings">Open Settings</string>
+</resources>
