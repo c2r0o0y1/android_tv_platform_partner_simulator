@@ -1,6 +1,6 @@
-# FireTV Partner Platform Simulator
+# TV Partner Platform Simulator
 
-Lightweight monorepo for building a Fire TV partner simulation stack with an Android TV launcher and a FastAPI backend.
+Lightweight monorepo for building a Andriod TV partner simulation stack with an Android TV launcher and a FastAPI backend.
 
 ## Repo Overview
 
